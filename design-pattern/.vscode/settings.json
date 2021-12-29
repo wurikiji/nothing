@@ -1,0 +1,17 @@
+{
+	"files.associations": {
+		"string": "cpp",
+		"memory": "cpp",
+		"cstdio": "cpp",
+		"__config": "c",
+		"__split_buffer": "cpp",
+		"vector": "cpp",
+		"iosfwd": "cpp",
+		"iostream": "cpp",
+		"functional": "cpp",
+		"type_traits": "cpp",
+		"string_view": "cpp"
+	},
+	"cmake.configureOnOpen": true,
+	"C_Cpp.errorSquiggles": "Enabled"
+}
