@@ -1,4 +1,5 @@
 use actix_web::{web, App, HttpResponse, HttpServer};
+use serde::Deserialize;
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
@@ -29,7 +30,6 @@ fn get_index() -> HttpResponse {
     )
 }
 
-use serde::Deserialize;
 #[derive(Deserialize)]
 struct GcdParameters {
     n: u64,
