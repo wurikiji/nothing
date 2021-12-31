@@ -3,7 +3,8 @@
         {
             "name": "Mac",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/usr/local/var/vcpkg/installed/x64-osx/include"
             ],
             "defines": [],
             "macFrameworkPath": [],
