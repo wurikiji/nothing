@@ -1,0 +1,27 @@
+{
+	"files.associations": {
+		"ostream": "cpp",
+		"chrono": "cpp",
+		"cstdint": "cpp",
+		"limits": "cpp",
+		"algorithm": "cpp",
+		"__config": "cpp",
+		"__tuple": "cpp",
+		"bit": "cpp",
+		"istream": "cpp",
+		"locale": "cpp",
+		"random": "cpp",
+		"string": "cpp",
+		"unordered_map": "cpp",
+		"*.tcc": "cpp",
+		"bitset": "cpp",
+		"memory": "cpp",
+		"iosfwd": "cpp",
+		"iostream": "cpp",
+		"numeric": "cpp",
+		"ratio": "cpp",
+		"sstream": "cpp",
+		"streambuf": "cpp",
+		"ios": "cpp"
+	}
+}
